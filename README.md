@@ -45,3 +45,10 @@ This project demonstrates data cleaning basics, data analysis, grouping and aggr
 Aryan Ninawe
 
 GitHub: https://github.com/aryanninawe811
+## Visualizations
+
+### Product-wise Revenue
+![Product-wise Revenue](product_revenue.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](monthly_revenue.png)
