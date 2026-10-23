@@ -1,0 +1,11 @@
+Date,Product,Category,Region,Units_Sold,Unit_Price,Revenue,Month
+2026-01-05,Laptop,Electronics,North,2,55000,110000,2026-01
+2026-01-10,Mouse,Accessories,South,10,500,5000,2026-01
+2026-01-15,Keyboard,Accessories,East,5,1200,6000,2026-01
+2026-02-03,Laptop,Electronics,West,3,55000,165000,2026-02
+2026-02-12,Headphones,Electronics,North,4,2500,10000,2026-02
+2026-02-20,Mouse,Accessories,East,15,500,7500,2026-02
+2026-03-02,Keyboard,Accessories,South,8,1200,9600,2026-03
+2026-03-11,Laptop,Electronics,North,1,55000,55000,2026-03
+2026-03-18,Headphones,Electronics,West,6,2500,15000,2026-03
+2026-03-25,Mouse,Accessories,North,12,500,6000,2026-03
